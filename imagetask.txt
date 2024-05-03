@@ -1,0 +1,14 @@
+<html>
+<head><title> image</title>
+</head>
+<body>
+<table border="1px">
+<tr>
+<td>ID</td>
+<td>TITLE</td>
+<td>IMAGE</td>
+<td>DETAILS</td>
+<td>IMAGE</td>
+</tr>
+</body>
+</html>
